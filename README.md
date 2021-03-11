@@ -8,23 +8,18 @@ Python OpenCV를 활용해 그림판에 그린 그림에서 도형을 검출하�
 
 
 ## Triangle
----
 ![Triangle](gif/triangle.gif)
 
 ## Rectangle
----
 ![Rectangle](gif/rectangle.gif)
 
 ## Pentagon
----
 ![Pentagon](gif/pentagon.gif)
 
 ## Hexagon
----
 ![Hexagon](gif/hexagon.gif)
 
 ## Circle
----
 ![Circle](gif/circle.gif)
 - 외곽선 검출으로는 원을 검사할 수가 없다. 
 따라서, 원은 따로 검사해준다.
